@@ -1,0 +1,12 @@
+img{
+	float:right;
+	margin:0 0 0 10px;
+}
+ul ul{
+	display:none;
+}
+footer{
+	position:absolute;
+	width:95%;
+	bottom:10px;
+}

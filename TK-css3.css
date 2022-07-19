@@ -1,0 +1,12 @@
+h1{
+	text-shadow:2px 5px 3px #c0ddc0;
+}
+h2{
+	background-color:#c0ddc0;
+	padding:5px 10px 0px 10px;
+	width:50%;
+	border-radius:5px;
+}
+ul{
+	outline:3px solid blue;
+}
